@@ -1,0 +1,152 @@
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.csproj.AssemblyReference.cache
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.AssemblyInfoInputs.cache
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.AssemblyInfo.cs
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\appsettings.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.exe
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.deps.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.runtimeconfig.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.pdb
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.AliensAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AliensAPI.props
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AliensAPI.props
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AliensAPI.props
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\scopedcss\bundle\AliensAPI.styles.css
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.csproj.CopyComplete
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\refint\AliensAPI.dll
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.pdb
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.genruntimeconfig.cache
+E:\Visual Studio\source\repos\AliensAPI\AliensAPI\obj\Debug\net7.0\ref\AliensAPI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.exe
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.deps.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.runtimeconfig.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\AliensAPI.pdb
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.AliensAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AliensAPI.props
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AliensAPI.props
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AliensAPI.props
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\scopedcss\bundle\AliensAPI.styles.css
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\refint\AliensAPI.dll
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.pdb
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\AliensAPI.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\Curso C#\APIs\API ROB\AliensAPI\AliensAPI\obj\Debug\net7.0\ref\AliensAPI.dll
